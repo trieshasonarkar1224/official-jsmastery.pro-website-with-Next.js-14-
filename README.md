@@ -165,3 +165,20 @@ Enlisted below are the things I learnt today. 👇
   Adding metadata for social media sharing and mobile themes to enhance user experience.
 <br>
   Verifying the improvements and checking website performance using tools like GTMetrix.
+
+<br>
+
+![Screenshot 2024-10-14 204510](https://github.com/user-attachments/assets/f787db87-3f70-4268-a91a-6e388e44431e)
+
+![Screenshot 2024-10-14 204524](https://github.com/user-attachments/assets/0fa99e42-5eea-4647-a7ad-bd9808fe6f2b)
+
+![Screenshot 2024-10-14 204536](https://github.com/user-attachments/assets/67f54348-d793-4a2e-9aa8-f33ba8ea49ae)
+
+![Screenshot 2024-10-14 204557](https://github.com/user-attachments/assets/cb434b7a-ad2b-4d06-8900-523d2dbbf0b4)
+
+![Screenshot 2024-10-14 204611](https://github.com/user-attachments/assets/f8494307-dc21-4fbb-8064-6036d1a78ec3)
+
+
+
+
+  
